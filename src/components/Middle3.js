@@ -1,4 +1,5 @@
 import React from "react";
+import "../styles/Middle3.css";
 import img from "../assets/service_residential-options 1.png";
 
 export default function Middle3() {

@@ -1,4 +1,5 @@
 import React from "react";
+import "../styles/Middle5.css";
 import img from "../assets/group-senior-friends-collaboration 1.png";
 
 export default function Middle5() {

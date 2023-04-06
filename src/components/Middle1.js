@@ -1,5 +1,6 @@
 import React from "react";
 import img from "../assets/age 1.png";
+import "../styles/Middle1.css";
 
 export default function Middle1() {
   return (

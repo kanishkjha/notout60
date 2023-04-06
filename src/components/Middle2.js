@@ -1,4 +1,5 @@
 import React from "react";
+import "../styles/Middle2.css";
 import img from "../assets/hs_home_link 1.png";
 
 export default function Middle2() {

@@ -1,4 +1,5 @@
 import React from "react";
+import "../styles/Middle4.css";
 import img from "../assets/working-women 1.png";
 
 export default function Middle4() {

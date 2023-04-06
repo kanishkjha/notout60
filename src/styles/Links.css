@@ -1,0 +1,32 @@
+/* Links */
+
+div.links {
+  display: flex;
+}
+
+div.links div {
+  margin: auto;
+  border-bottom: 2px solid #000080;
+}
+
+div.links div i {
+  margin: 5px;
+}
+
+div.notout-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid white !important;
+}
+
+div.notout-logo img {
+  width: 100px;
+  height: 100px;
+  border-radius: 15%;
+}
+
+div.notout-logo h2 {
+  margin: 5px;
+  color: #000080;
+}
